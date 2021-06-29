@@ -1,0 +1,31 @@
+.App {
+  text-align: center;
+}
+
+
+.App-header {
+  background-color: white;
+  display: flex;
+  flex-direction: column;
+  font-size: calc(10px + 2vmin);
+  color:black;
+}
+
+
+table, th, td {
+  border: 1px solid black;
+}
+
+.Nav {
+  background-color:rgb(0, 255, 191);
+  color:white;
+  padding-top: 20px;
+  padding-right: 30px;
+  padding-bottom: 20px;
+  padding-left: 30px;
+}
+
+.Navlink {
+  padding-right: 30px;
+  padding-left: 30px;
+}

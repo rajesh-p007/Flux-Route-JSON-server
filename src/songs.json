@@ -1,0 +1,46 @@
+{
+  "data": [
+    {
+      "id": 1,
+      "Movie": "Ala Vaikuntapuram",
+      "Title": "Butta Bomma",
+      "SongLength": 3.14,
+      "Singer": "Armaan Malik"
+    },
+    {
+      "id": 2,
+      "Movie": "Ala Vaikuntapuram",
+      "Title": "Samajavaragamana",
+      "SongLength": 3.49,
+      "Singer": "Sid Sriram"
+    },
+    {
+      "id": 3,
+      "Movie": "Tholi Prema",
+      "Title": "Ninnila",
+      "SongLength": 4.45,
+      "Singer": "Armaan Malik"
+    },
+    {
+      "id": 4,
+      "Movie": "Tholi Prema",
+      "Title": "Sunona Sunaina",
+      "SongLength": 3.41,
+      "Singer": "Rahul Nambiar"
+    },
+    {
+      "id": 5,
+      "Movie": "Kesari",
+      "Title": "Teri Mitti",
+      "SongLength": 4.47,
+      "Singer": "B Praak"
+    },
+    {
+      "Movie": "Darling",
+      "Title": "Neeve Neeve",
+      "SongLength": 3,
+      "Singer": "G.V Prakash",
+      "id": 6
+    }
+  ]
+}
